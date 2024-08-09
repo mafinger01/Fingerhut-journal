@@ -189,7 +189,7 @@ Slider
   height: 40vh;
   max-width: 80rem;
   position: relative;
-  box-shadow: 10px 5px 5px grey;
+  /*box-shadow: 10px 5px 5px grey;*/
   border-radius: 0.5rem 0.5rem;
 
   overflow: hidden;
